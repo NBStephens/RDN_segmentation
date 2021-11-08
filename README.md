@@ -1,6 +1,12 @@
 # RDN_segmetation
 Home of the FEMR lab RDN segmtation software
 
+# Install
+This project uses python poetry to manage the environment
+
+Read more about this here: 
+https://python-poetry.org/
+
 
 ## Authors
 
