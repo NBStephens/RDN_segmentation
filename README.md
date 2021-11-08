@@ -15,8 +15,8 @@ https://python-poetry.org/
 * **Yung-Chen Sun - *Network design* 
 * **Sharon Kuo** -  SharonKuo@psu.edu
 * **Lily J. Demars** - lvd5263@psu.edu
-* * **Tim M. Ryan** - *PI* tmr21@psu.edu
-* * * **Vishal Monga** - *PI* vum4@psu.edu
+* **Tim M. Ryan** - *PI* tmr21@psu.edu
+* **Vishal Monga** - *PI* vum4@psu.edu
 
 ## Please cite
 
