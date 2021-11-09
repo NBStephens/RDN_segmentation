@@ -1,0 +1,1 @@
+conda env create --name=pytorch --file=pytorch.yaml
