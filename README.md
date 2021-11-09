@@ -1,5 +1,5 @@
 # RDN_segmentation
-Home of the FEMR lab RDN segmentation software
+Home of the [FEMR Lab](https://femr.la.psu.edu/) RDN segmentation software at PSU
 
 # Install
 This project uses python poetry to manage the environment
@@ -18,16 +18,16 @@ https://python-poetry.org/
 * **Tim M. Ryan** - *PI* tmr21@psu.edu
 * **Vishal Monga** - *PI* vum4@psu.edu
 
-## Please cite
+### Funded by
+[NSF BCS 1719187](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1719187)
 
+## Please cite
 ```
 @INPROCEEDINGS{9443322,  
   author={Yazdani, Amirsaeed and Sun, Yung-Chen and Stephens, Nicholas B. and Ryan, Timothy and Monga, Vishal},  
   booktitle={2020 54th Asilomar Conference on Signals, Systems, and Computers},   
   title={Multi-Class Micro-CT Image Segmentation Using Sparse Regularized Deep Networks},   
   year={2020},  
-  volume={},  
-  number={},  
   pages={1553-1557},  
   doi={10.1109/IEEECONF51394.2020.9443322}}
 ```
@@ -37,8 +37,6 @@ https://python-poetry.org/
   booktitle={2019 53rd Asilomar Conference on Signals, Systems, and Computers},
   title={Domain-Enriched Deep Network for Micro-CT Image Segmentation}, 
   year={2019},
-  volume={},
-  number={},
   pages={1867-1871},
   doi={10.1109/IEEECONF44664.2019.9048654}}
 ```
