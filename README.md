@@ -1,6 +1,8 @@
 # RDN_segmentation
 Home of the [FEMR Lab](https://femr.la.psu.edu/) RDN segmentation software at PSU
 
+[![DOI](https://zenodo.org/badge/425930676.svg)](https://zenodo.org/badge/latestdoi/425930676)
+
 # Install
 For standalone version of RDN Segementer, download RDN_segmentation_container.zip file from https://drive.google.com/drive/folders/1iPtUwCdCiEAd8kMslV4znbZyJqAlmCKl?usp=sharing then unzip it and follow RDN_Install_Use_Instructions.txt. Note: Standalone version only works on Windows systems. 
 
